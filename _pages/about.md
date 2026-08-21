@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Student in Computer Science. Researching Reinforcement Learning applied to video game testing automation at UNESP
+subtitle: MSc Student in Computer Science. Researching Reinforcement Learning @ UNESP.
 
 
 profile:
