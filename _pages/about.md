@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>São Paulo State University (UNESP)</p>
+    <p>São Paulo State University</p>
     <p>Av. 24-A, 1515 - Bela Vista</p>
     <p>Rio Claro, SP — 13506-900, Brazil</p>
 
