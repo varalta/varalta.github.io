@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MSc Student in Computer Science. Researching Reinforcement Learning applied to video game testing automation at UNESP
 
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>São Paulo State University (UNESP)</p>
+    <p>Av. 24-A, 1515 - Bela Vista</p>
+    <p>Rio Claro, SP — 13506-900, Brazil</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
