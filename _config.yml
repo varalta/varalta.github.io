@@ -252,6 +252,7 @@ exclude:
   - migrations/
   - vendor
   - _pages/repositories.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
