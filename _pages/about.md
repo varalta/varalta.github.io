@@ -31,7 +31,7 @@ latest_posts:
 I am a researcher working at the intersection of games, human-computer interaction, and immersive technologies. My research spans cross-institutional collaborations across Brazil and Canada.
 
 Currently, I am an active member of two research groups:
-* **[RE-G3x](https://re-g3x.github.io/homepage/)** *(Research in Games, Gamification, Serious Games, and eXtended Reality)* — an interuniversity research group partnering the University of São Paulo (**ICMC-USP**) and São Paulo State University (**IGCE-UNESP**).
+* **[RE-G3x](https://re-g3x.github.io/homepage/people)** *(Research in Games, Gamification, Serious Games, and eXtended Reality)* — an interuniversity research group partnering the University of São Paulo (**ICMC-USP**) and São Paulo State University (**IGCE-UNESP**).
 * **[Code & Sorcery Lab](https://cpoli.live/people/)** — an empirical game research lab at **Ontario Tech University**.
 
 My current research focus involves Deep Reinforcement Learning applied to video game testing/QA.
