@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: What's up, Caio # blog_name will be displayed in your blog page
-blog_description: My personal notes about games, research and teaching
+blog_name: what's up, caio # blog_name will be displayed in your blog page
+blog_description: my personal notes about games, research and teaching
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
