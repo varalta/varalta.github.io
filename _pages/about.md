@@ -25,7 +25,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  limit: 2 # leave blank to include all the blog posts
 ---
 
 I am a researcher working at the intersection of games, human-computer interaction, and immersive technologies. My research spans cross-institutional collaborations across Brazil and Canada.
