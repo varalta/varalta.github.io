@@ -12,7 +12,7 @@ Hi, thank you for your interest in this project!
 
 We trained five procedural personas for a continuous game arena and investigated whether humans could tell them apart perceptually. The result is our AIIDE 2026 paper, Beyond Metrics, and this short post is a hub for its main resources.
 
-If you want to read the preprint version of our paper, you can go to this link: [Beyond Metrics: A Human Validation Study of Procedural Personas in a Continuous Game Arena](https://github.com/varalta/varalta.github.io/blob/main/assets/pdf/Beyond_Metrics_-_A_Human_Validation_Study_of_Procedural_Personas_in_a_Continuous_Game_Arena.pdf).
+If you want to our paper, you can go to this link: [Beyond Metrics: A Human Validation Study of Procedural Personas in a Continuous Game Arena](https://ojs.aaai.org/index.php/AIIDE/article/view/43598).
 
 If you want to see the videos of the agents playing and check the questionnaire's dataset, head to our [Zenodo repository](https://zenodo.org/records/22959121).
 
