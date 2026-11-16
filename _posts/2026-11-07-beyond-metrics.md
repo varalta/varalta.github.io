@@ -16,7 +16,7 @@ If you want to our paper, you can go to this link: [Beyond Metrics: A Human Vali
 
 If you're interested in watching my presentation explaining this paper in 5 minutes you can [watch this YouTube video](https://youtu.be/DKtCmnKeZnw).
 
-In case you wanna check the videos of the agents playing by yourself, head to our [Zenodo repository](https://zenodo.org/records/22959121).
+In case you wanna check the videos of the agents playing by yourself, head over to our [Zenodo repository](https://zenodo.org/records/22959121).
 
 If you're interested in checking the source code for our implementation (or in case you want to try the personas by yourself), check out the paper's [GitHub release](https://github.com/Re-G3X/ml-agents/releases/tag/paper-aiide-2026).
 
